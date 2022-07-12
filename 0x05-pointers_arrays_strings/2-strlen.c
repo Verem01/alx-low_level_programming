@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * @s:pointer to the sting character
  *_strlen - return the length of a string
+ * @s:pointer to the sting character
  * Return- returns the length of the string
  */
 int _strlen(char *s)
