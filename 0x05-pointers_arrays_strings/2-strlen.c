@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * @s:pointer to the sting character
+ *_strlen - return the length of a string
+ * Return- returns the length of the string
  */
 int _strlen(char *s)
 {
