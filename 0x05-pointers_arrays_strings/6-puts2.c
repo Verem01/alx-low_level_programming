@@ -13,7 +13,7 @@ void puts2(char *str)
 	{
 		if (length % 2 == 0)
 		{
-			l = *(str + len);
+			l = *(str + length);
 			_putchar(l);
 		}
 	}
